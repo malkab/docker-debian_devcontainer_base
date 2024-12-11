@@ -1,4 +1,4 @@
-FROM debian:bookworm as build
+FROM debian:bookworm AS build
 
 LABEL author="Juan Pedro Perez"
 LABEL email="jp.perez.alcantara@gmail.com"
